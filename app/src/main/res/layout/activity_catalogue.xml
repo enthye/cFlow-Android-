@@ -13,7 +13,7 @@
         app:backgroundTint="@color/colorPrimary"
         android:src="@android:drawable/ic_input_add"
         android:tint="@color/white" />
-
+    
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerView"
         style="@style/Widget.AppCompat.ListView"
